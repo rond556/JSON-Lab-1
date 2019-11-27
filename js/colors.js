@@ -1,4 +1,4 @@
-var colorsArray : {
+var colorsArray = {
     "colors": [
         {
             "name": "green",
